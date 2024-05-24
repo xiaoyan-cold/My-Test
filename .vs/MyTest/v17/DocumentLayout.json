@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyGithub\\MyTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|d:\\mygithub\\mytest\\assets\\scripts\\testtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestTest.cs",
+              "DocumentMoniker": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\TestTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TestTest.cs",
+              "ToolTip": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\TestTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TestTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:37:40.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
