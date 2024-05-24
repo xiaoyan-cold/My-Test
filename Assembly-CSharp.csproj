@@ -56,7 +56,18 @@
     <Analyzer Include="D:\Software\Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\TestTest.cs" />
+    <Compile Include="Assets\Scripts\GameFarmwork\MessageModule.cs" />
+    <Compile Include="Assets\Scripts\GameFarmwork\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Test\RegsterTest.cs" />
+    <Compile Include="Assets\Scripts\GameFarmwork\BaseGameModule.cs" />
+    <Compile Include="Assets\Scripts\GameFarmwork\ListExt.cs" />
+    <Compile Include="Assets\Scripts\Test\BrodCast.cs" />
+    <Compile Include="Assets\Scripts\GameFarmwork\TGameFramework.cs" />
+    <Compile Include="Assets\Scripts\GameFarmwork\Monitor.cs" />
+    <Compile Include="Assets\Scripts\GameFarmwork\IMessageHandler.cs" />
+    <Compile Include="Assets\Scripts\GameFarmwork\MessageType.cs" />
+    <Compile Include="Assets\Scripts\GameFarmwork\ObjectPool.cs" />
+    <Compile Include="Assets\Scripts\GameFarmwork\MessageHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -313,6 +324,12 @@
     </Reference>
     <Reference Include="ReportGeneratorMerged">
       <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.3\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityLog">
+      <HintPath>Assets\Plugins\UnityLog.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog">
+      <HintPath>Assets\Plugins\NLog.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>D:\Software\Unity\Unity2021\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

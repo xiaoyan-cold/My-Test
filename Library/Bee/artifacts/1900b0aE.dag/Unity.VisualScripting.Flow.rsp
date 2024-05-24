@@ -121,6 +121,10 @@
 -define:MODULE_PARTICLE_SYSTEM_EXISTS
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Plugins/Editor/EPPlus.dll"
+-r:"Assets/Plugins/Editor/excellent.dll"
+-r:"Assets/Plugins/NLog.dll"
+-r:"Assets/Plugins/UnityLog.dll"
 -r:"D:/MyGithub/MyTest/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/log4netPlastic.dll"
 -r:"D:/MyGithub/MyTest/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"D:/MyGithub/MyTest/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
