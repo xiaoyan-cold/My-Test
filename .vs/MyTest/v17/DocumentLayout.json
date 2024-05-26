@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "D:\\MyGithub\\MyTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|d:\\mygithub\\mytest\\assets\\scripts\\testtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|d:\\mygithub\\mytest\\assets\\scripts\\procedure\\initprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\procedure\\initprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|d:\\mygithub\\mytest\\assets\\scripts\\procedure\\launchprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\procedure\\launchprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|D:\\MyGithub\\MyTest\\assets\\scripts\\gamefarmwork\\utility.types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamefarmwork\\utility.types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|D:\\MyGithub\\MyTest\\assets\\scripts\\inspector\\proceduremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inspector\\proceduremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|D:\\MyGithub\\MyTest\\assets\\scripts\\gamefarmwork\\baseprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamefarmwork\\baseprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|D:\\MyGithub\\MyTest\\assets\\scripts\\gamefarmwork\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5DE3C1-C633-6CE1-E8F7-68EDDC65F64F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamefarmwork\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyGithub\\MyTest\\Assets\\Scripts\\TestTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TestTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyGithub\\MyTest\\Assets\\Scripts\\Inspector\\ProcedureModuleInspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Inspector\\ProcedureModuleInspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +47,100 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InitProcedure.cs",
+              "DocumentMoniker": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\Procedure\\InitProcedure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Procedure\\InitProcedure.cs",
+              "ToolTip": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\Procedure\\InitProcedure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Procedure\\InitProcedure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:20:35.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LaunchProcedure.cs",
+              "DocumentMoniker": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\Procedure\\LaunchProcedure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Procedure\\LaunchProcedure.cs",
+              "ToolTip": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\Procedure\\LaunchProcedure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Procedure\\LaunchProcedure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:20:06.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utility.Types.cs",
+              "DocumentMoniker": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\GameFarmwork\\Utility.Types.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameFarmwork\\Utility.Types.cs",
+              "ToolTip": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\GameFarmwork\\Utility.Types.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameFarmwork\\Utility.Types.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:11:47.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcedureModule.cs",
+              "DocumentMoniker": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\Inspector\\ProcedureModule.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inspector\\ProcedureModule.cs",
+              "ToolTip": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\Inspector\\ProcedureModule.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inspector\\ProcedureModule.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:10:37.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseProcedure.cs",
+              "DocumentMoniker": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\GameFarmwork\\BaseProcedure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameFarmwork\\BaseProcedure.cs",
+              "ToolTip": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\GameFarmwork\\BaseProcedure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameFarmwork\\BaseProcedure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:07:13.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcedureModuleInspector.cs",
+              "DocumentMoniker": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\Inspector\\ProcedureModuleInspector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inspector\\ProcedureModuleInspector.cs",
+              "ToolTip": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\Inspector\\ProcedureModuleInspector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inspector\\ProcedureModuleInspector.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:00:56.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\GameFarmwork\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameFarmwork\\GameManager.cs",
+              "ToolTip": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\GameFarmwork\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameFarmwork\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:13:53.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TestTest.cs",
               "DocumentMoniker": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\TestTest.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TestTest.cs",
               "ToolTip": "D:\\MyGithub\\MyTest\\Assets\\Scripts\\TestTest.cs",
               "RelativeToolTip": "Assets\\Scripts\\TestTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T13:37:40.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T13:37:40.372Z"
             }
           ]
         }

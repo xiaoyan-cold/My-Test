@@ -11,6 +11,8 @@ public class GameManager : MonoBehaviour
     [Module(6)]
     public static MessageModule Message { get => TGameFramework.Instance.GetModule<MessageModule>(); }
 
+    public static ProcedureModule Procedure { get => TGameFramework.Instance.GetModule<ProcedureModule>(); }
+
     private bool activing;
     private void Awake()
     {
